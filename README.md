@@ -19,4 +19,3 @@
 - CSS3  
 - JavaScript (Vanilla)  
 
-## 📂 ه
